@@ -7,3 +7,8 @@
 	path = latan-abakos/latan
 	url = git@github.com:joseluisbossio/latan.git
 	branch = master
+
+[submodule "latan-abakos/meli_oerp"]
+	path = latan-abakos/meli_oerp
+	url = git@github.com:ctmil/meli_oerp.git
+	branch = odoo12
