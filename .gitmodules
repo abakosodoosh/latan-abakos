@@ -1,0 +1,4 @@
+[submodule "latan-abakos/product-attribute"]
+	path = latan-abakos/product-attribute
+	url = git@github.com:joseluisbossio/product-attribute.git
+	branch = 12.0
